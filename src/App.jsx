@@ -15,7 +15,7 @@ function App() {
         {/* signIn Box */}
         <div className="user signinBx">
           <div className="imgBx">
-            <img src="/src/images/img3.jpg" alt="" />
+            <img src="img3.jpg" alt="" />
           </div>
           <div className="formBx">
             <form action="">
@@ -25,7 +25,7 @@ function App() {
               <input type="submit" name="" value="Login" />
               <div className="sign-text">
                 <p className="signup">
-                  Don't have an account ?
+                  Don&apos;t have an account ?
                   <a href="#" onClick={toggleForm}>Sign Up.</a>
                 </p>
                 
@@ -56,7 +56,7 @@ function App() {
             </form>
           </div>
           <div className="imgBx">
-            <img src="/src/images/img1.jpg" alt="" />
+            <img src="img1.jpg" alt="" />
           </div>
         </div>
       </div>

@@ -13,7 +13,7 @@ function App() {
         {/* signIn Box */}
         <div className="user signinBx">
           <div className="imgBx">
-            <img src="./src/images/img3.jpg" alt="" />
+            <img src="/src/images/img3.jpg" alt="" />
           </div>
           <div className="formBx">
             <form action="">
@@ -54,7 +54,7 @@ function App() {
             </form>
           </div>
           <div className="imgBx">
-            <img src="./src/images/img1.jpg" alt="" />
+            <img src="/src/images/img1.jpg" alt="" />
           </div>
         </div>
       </div>

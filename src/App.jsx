@@ -15,7 +15,7 @@ function App() {
         {/* signIn Box */}
         <div className="user signinBx">
           <div className="imgBx">
-            <img src="img3.jpg" alt="" />
+            <img src="img3.jpg" alt=""/>
           </div>
           <div className="formBx">
             <form action="">
